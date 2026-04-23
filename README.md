@@ -18,6 +18,16 @@ It follows a complete machine learning workflow including exploratory data analy
 
 ---
 
+## 🧩 Algorithm Allocation by Member
+
+1. **Shadiah**: Support Vector Machine (SVM), Logistic Regression
+2. **Kigozi Allan**: K-Nearest Neighbors (KNN), Decision Tree
+3. **Ageno Elizabeth**: TabNet, Multilayer Perceptron (MLP)
+4. **Keith Paul Kato**: XGBoost, Gradient Boosting
+5. **Mugole Joel**: 1D Convolutional Neural Network (1D-CNN), FT-Transformer
+
+---
+
 ## 🎓 Course Information
 
 * **Course:** Introduction to Machine Learning (CSC 2201)
